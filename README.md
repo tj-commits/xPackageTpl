@@ -1,3 +1,3 @@
 xPackageTpl
 ===========
-big fun thing
+High quality
